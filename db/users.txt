@@ -1,0 +1,4 @@
+
+
+{"username": "angel", "password": "123", "first_name": "angel", "last_name": "madin", "products": [2, 1, 2, 2, 3, 1, 1]}
+{"username": "test2", "password": "1234", "first_name": "test", "last_name": "test", "products": []}

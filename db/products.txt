@@ -1,0 +1,3 @@
+{"id": 1, "name": "iphone 12", "img_path": "apple-iphone.png", "count": -1}
+{"id": 2, "name": "iphone 10", "img_path": "phone.png", "count": 22}
+{"id": 3, "name": "samsung galaxy", "img_path": "phone-samsung.jpg", "count": 26}
